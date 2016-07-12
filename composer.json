@@ -1,0 +1,6 @@
+{
+    "require": {
+        "pyrocms/lex": "^2.3",
+        "zordius/lightncandy": "^0.94.0"
+    }
+}
