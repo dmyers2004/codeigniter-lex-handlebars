@@ -4,7 +4,11 @@ The library for:
 
 lex Parser Library https://github.com/dmyers2004/codeigniter-lex-handlebars/blob/master/application/libraries/Lex.php
 
+GitHub repro of lex: https://github.com/pyrocms/lex
+
 handlebars Parser Library: https://github.com/dmyers2004/codeigniter-lex-handlebars/blob/master/application/libraries/Handlebars.php
+
+GitHub repro of Handlebars PHP https://github.com/zordius/lightncandy
 
 Sample Templates:
 
